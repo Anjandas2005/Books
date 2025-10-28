@@ -181,11 +181,17 @@ If you find this repository helpful:
 
 ```
 Books/
-├── C_Programming/
-│   └── programming-in-ansi-c-6th-edition-by-e.-balaguruswamy.pdf
-├── Computer_Networking/
-│   └── Computer_Networks_Peterson__A_Systems_Approach__Fourth_Edition.pdf
-├── Theory_of_Computation/
-│   └── Michael Sipser - Introduction to the Theory of Computation (3rd Edition, 2012).pdf
-└── README.md
+├── 📘 C_Programming/
+│ └── programming-in-ansi-c-6th-edition-by-e.-balaguruswamy.pdf
+│
+├── 🌐 Computer_Networking/
+│ └── Computer_Networks_Peterson__A_Systems_Approach__Fourth_Edition.pdf
+│
+├── 🧩 Theory_of_Computation/
+│ └── Michael Sipser - Introduction to the Theory of Computation (3rd Edition, 2012).pdf
+│
+├── ⚙️ Algorithm/
+│ └── Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to Algorithms 3rd Edition (2009).pdf
+│
+└── 📄 README.md
 ```
