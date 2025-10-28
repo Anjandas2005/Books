@@ -50,7 +50,19 @@ Perfect for students, developers, and anyone looking to expand their technical k
     The book presents theoretical concepts clearly with intuitive proofs, examples, and exercises — making it ideal for undergraduate and graduate students studying computation theory.
 
 ---
+### ⚙️ Algorithm
+📁 **Location:** `/Algorithm`
 
+- **Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to Algorithms (3rd Edition, 2009).pdf**  
+  - **Authors:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein  
+  - **Edition:** 3rd Edition (2009)  
+  - **Publisher:** The MIT Press  
+  - **ISBN:** 978-0-262-03384-8  
+  - **Description:**  
+    Known globally as *CLRS*, this is one of the most comprehensive textbooks on algorithms. It covers a wide range of algorithmic techniques and problem-solving strategies — from basic data structures to advanced topics like dynamic programming, graph algorithms, and NP-completeness.  
+    Each chapter is self-contained, with detailed explanations, proofs, and pseudocode — making it an essential reference for computer science students, researchers, and professionals alike.
+
+---
 ## 🚀 How to Use
 
 1. **Browse** through the folders to find books on topics that interest you.  
