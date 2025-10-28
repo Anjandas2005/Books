@@ -21,6 +21,14 @@ Perfect for students, developers, and anyone looking to expand their technical k
   - **Edition:** 6th Edition  
   - **Description:** Comprehensive guide to ANSI C programming, covering fundamentals to advanced concepts.
 
+- **KernighanRitchieTheCProgrammingLanguage.pdf**  
+  - **Authors:** Brian W. Kernighan & Dennis M. Ritchie  
+  - **Edition:** 2nd Edition  
+  - **Publisher:** Prentice Hall  
+  - **ISBN:** 978-0131103627  
+  - **Description:**  
+    The classic and authoritative book that introduced the C programming language. Written by the creators of C, it provides clear explanations, practical examples, and deep insights into how C works — making it a must-read for every programmer.
+
 ---
 
 ### 🌐 Computer Networking
@@ -182,7 +190,8 @@ If you find this repository helpful:
 ```
 Books/
 ├── 📘 C_Programming/
-│ └── programming-in-ansi-c-6th-edition-by-e.-balaguruswamy.pdf
+│ ├── programming-in-ansi-c-6th-edition-by-e.-balaguruswamy.pdf
+│ └── KernighanRitchieTheCProgrammingLanguage.pdf
 │
 ├── 🌐 Computer_Networking/
 │ └── Computer_Networks_Peterson__A_Systems_Approach__Fourth_Edition.pdf
@@ -194,4 +203,3 @@ Books/
 │ └── Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to Algorithms 3rd Edition (2009).pdf
 │
 └── 📄 README.md
-```
