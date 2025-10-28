@@ -37,6 +37,20 @@ Perfect for students, developers, and anyone looking to expand their technical k
 
 ---
 
+### 🧩 Theory of Computation
+📁 **Location:** `/Theory_of_Computation`
+
+- **Michael Sipser - Introduction to the Theory of Computation (3rd Edition, 2012).pdf**  
+  - **Author:** Michael Sipser  
+  - **Edition:** 3rd Edition (2012)  
+  - **Publisher:** Thomson South-Western  
+  - **ISBN:** 978-1-133-18779-0  
+  - **Description:**  
+    A classic and widely respected textbook that introduces the mathematical foundations of computer science. It covers automata theory, formal languages, Turing machines, undecidability, and computational complexity.  
+    The book presents theoretical concepts clearly with intuitive proofs, examples, and exercises — making it ideal for undergraduate and graduate students studying computation theory.
+
+---
+
 ## 🚀 How to Use
 
 1. **Browse** through the folders to find books on topics that interest you.  
@@ -44,7 +58,7 @@ Perfect for students, developers, and anyone looking to expand their technical k
    ```bash
    git clone https://github.com/Anjandas2005/Books.git
    ```
-3. **Download** individual books by navigating to the file and clicking "Download".
+3. **Download** individual books by navigating to the file and clicking **"Download"**.
 4. **Read** and learn at your own pace.
 
 ---
@@ -52,8 +66,10 @@ Perfect for students, developers, and anyone looking to expand their technical k
 ## 📋 Book Categories
 
 Currently available categories:
+
 - ✅ C Programming
 - ✅ Computer Networking
+- ✅ Theory of Computation
 - 🔄 More categories coming soon...
 
 ---
@@ -70,6 +86,7 @@ Contributions are welcome! If you'd like to add books to this collection:
 ### 📝 Contribution Guidelines
 
 Please ensure that books you contribute are:
+
 - ✅ In the public domain
 - ✅ Licensed under Creative Commons or similar open licenses
 - ✅ Educational materials you have permission to share
@@ -93,45 +110,52 @@ When adding a book, please update the README following this format:
 
 ## 📊 Repository Stats
 
-- **Total Categories:** 2
-- **Total Books:** 2
+- **Total Categories:** 3
+- **Total Books:** 3
 - **Last Updated:** October 2025
 
 ---
 
 ## ⚖️ Legal Notice
 
-This repository is intended for educational and reference purposes only. All materials are either:
+This repository is intended for educational and reference purposes only.  
+All materials are either:
+
 - In the public domain,
 - Shared under appropriate licenses, or
 - Used with permission.
 
-If you are the copyright holder of any material in this repository and would like it removed, please open an issue or contact the repository owner immediately.
+If you are the copyright holder of any material in this repository and would like it removed,  
+please open an issue or contact the repository owner immediately.
 
 ---
 
 ## 📜 License
 
-Individual books may have their own licenses. Please check each book's license information before use.  
-The repository structure and documentation are available under the MIT License.
+Individual books may have their own licenses.  
+Please check each book's license information before use.
+
+The repository structure and documentation are available under the **MIT License**.
 
 ---
 
 ## 📧 Contact
 
 For questions, suggestions, or issues:
+
 - 🐛 **Report Issues:** [Open an Issue](https://github.com/Anjandas2005/Books/issues)
 - 👤 **Repository Owner:** [@Anjandas2005](https://github.com/Anjandas2005)
-- 💬 **Discussions:** Use the Discussions tab for general questions
+- 💬 **Discussions:** Use the *Discussions* tab for general questions
 
 ---
 
 ## 🌟 Support
 
 If you find this repository helpful:
-- ⭐ Star this repository
-- 🔄 Share it with others
-- 🤝 Contribute your own books
+
+- ⭐ **Star** this repository
+- 🔄 **Share** it with others
+- 🤝 **Contribute** your own books
 
 ---
 
@@ -149,5 +173,7 @@ Books/
 │   └── programming-in-ansi-c-6th-edition-by-e.-balaguruswamy.pdf
 ├── Computer_Networking/
 │   └── Computer_Networks_Peterson__A_Systems_Approach__Fourth_Edition.pdf
+├── Theory_of_Computation/
+│   └── Michael Sipser - Introduction to the Theory of Computation (3rd Edition, 2012).pdf
 └── README.md
 ```
